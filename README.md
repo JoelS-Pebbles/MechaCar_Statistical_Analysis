@@ -20,3 +20,14 @@ When looking at all of the lots when they are together, the p-value is higher th
 
 ![all lots t-test.PNG](https://github.com/JoelS-Pebbles/MechaCar_Statistical_Analysis/blob/main/all%20lots%20t-test.PNG)
 ![lot three t-test.PNG](https://github.com/JoelS-Pebbles/MechaCar_Statistical_Analysis/blob/main/lot%20three%20t-test.PNG)
+
+## Study Design: MechaCar vs Competition
+
+The metrics I would use are mpg, horsepower, and safety rating. 
+
+Null Hyp: the slope of a linear model is 0 where there is no corrlation between the dependent and independent variables. 
+Alt Hyp: The slope of the linear model does not equal 0. This shows that there is a significatn relationship between the dependent and independent variables. 
+
+I test I would use is a t-test where I would be able to get the statistical differences between the distribution's means and compare that to the competition. Another test I would use is the linear regression model. This is so I would be able to compare the regression curves on the independent variables. 
+
+I would need what the average mpg is for each car. As well as if there have been any modifications to the car such that would affect the mpg. For horsepower I would need the size of the engines per model, fuel types, shape and weight of the frames and types of engines. For safety rating I would need data on accidents, how wekll their airbags work, make sure that the brakes are always working. 
